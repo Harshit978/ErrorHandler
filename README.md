@@ -69,12 +69,6 @@ See `examples/webapp` for a sample `web.xml` and code-based registration in `App
 mvn clean install
 mvn test
 ```
-- **Use correlation IDs** to trace requests across services
-- **Analyze slow operations** using performance thresholds
-- **Check disk space** and logging system health regularly
-
-<img width="1252" height="904" alt="image" src="https://github.com/user-attachments/assets/fb4d55ef-ab9c-4374-be8a-32ac4c4ba0ab" />
-
 
  ## Conclusion
   This guide provides a comprehensive overview of the Error logging system, its APIs, and best practices for effective root cause analysis. By following these guidelines, you can ensure robust error handling and system monitoring.
